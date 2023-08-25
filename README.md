@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kadirildenizz
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning React
+- 📫 How to reach me kadirildeniz@icloud.com
